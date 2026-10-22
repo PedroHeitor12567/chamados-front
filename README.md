@@ -4,8 +4,7 @@ Front-end do Sistema de Chamados de Manutenção do IFRN (Campus Pau dos Ferros)
 
 ## Tela inicial
 
-<!-- Substitua pelo print da sua tela inicial mostrando os seus chamados -->
-![Tela inicial](./print-tela-inicial.png)
+[Tela inicial](./img.png)
 
 ## Funcionalidades
 
